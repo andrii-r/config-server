@@ -1,9 +1,3 @@
 role: dev
 username: andrey
-server:
-  port:8002
-  
-eureka:
-  client:
-    serviceUrl:
-      defaultZone:http://localhost:8010/eureka/
+capacity: 5
